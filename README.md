@@ -86,7 +86,6 @@ PyTorch version    : 2.11.0+cpu
 ```
 
 
-
 To install the required packages, use:
 
 ```bash
